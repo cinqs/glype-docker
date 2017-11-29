@@ -4,10 +4,9 @@
 This work uses the following works from *Creative Commons*
 
 1. `APACHE 2`
-2. `NGINX 1.13`
-3. `PHP 7.12`
-4. `PHP docker project`
-5. [`Glype`](https://sourceforge.net/projects/glypeproxy/)
+2. `PHP 7.12`
+3. `PHP docker project`
+4. [`Glype`](https://sourceforge.net/projects/glypeproxy/)
 
 
 ## hows
