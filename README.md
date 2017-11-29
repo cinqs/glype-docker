@@ -27,3 +27,11 @@ if you just want to try, use this
     docker run -it --rm --name glype -p 9000:80 cinqs/glype
     
 you may need to open a browser to address to *http://ip-address-of-your-docker-host:9000*
+
+## argues
+
+what is wrong with this [repo](https://hub.docker.com/r/frankzhang/glype/)
+
+* old and out-of-date
+* mysteries of source
+* not-maintant any more
