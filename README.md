@@ -10,15 +10,14 @@ This work uses the following works from *Creative Commons*
 
 ## contacts the author
 
-* **Email**: [ci.song@aliyun.com](mailto:ci.song@aliyun.com)
-* **Website**: https://cinqs.cn https://cinqs.me
+* **Email**: [ci.song[at]aliyun.com]
 
 
 ## hows
 
 if you want to use docker [hub repo](https://hub.docker.com/u/cinqsoong/glype/):
 
-    docker run -it --rm --name glype -p 9000:80 cinqs/glype:latest
+    docker run -it --rm --name glype -p 9000:80 cinqsoong/glype:latest
 
 if you just want to try try this repo, use this
 
